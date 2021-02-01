@@ -9,5 +9,8 @@ Automatic card detector during a black jack game, works with moving camera.
 Single deck used, gives info for enitre deck, saves already played cards 
 and displays the win probability when a new card is drawn.
 
-Screenshots
-![in-game image](screenshot1.jpg)
+Screenshots  
+<p float="left">
+  <img src="screenshot1.png" width="400" />
+  <img src="screenshot2.png" width="400" /> 
+</p>
