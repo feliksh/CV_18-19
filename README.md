@@ -1,6 +1,5 @@
 
-# Computer Vision Project: 
-BlackJack cards detector - moving camera
+# Computer Vision Project: BlackJack cards detector
 
 Project for master course Computer Vision (2018-2019) at Ca' Foscari University.
 Running at ...
